@@ -1,0 +1,2 @@
+Keyboard input time: 0.75 seconds
+Key p pressed
